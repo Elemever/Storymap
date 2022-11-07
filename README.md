@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map 
+- Leaflet Map https://elemever.github.io/Storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vRxCMpEKYmfvHm0hV8fAgnRBBQ4MZEhTmfsIsKSEw1T9laXyheV1b58LpLMFDMsHZ2F5COsHaqVBjOR/pubhtml
 
 ## Create Your Own
